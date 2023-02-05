@@ -27,8 +27,8 @@ font-size: 30px;
 }
 
 
-nav {
-text-decoration:none
-text-align:left
-font-size:50px
+nav a {
+text-decoration:none;
+text-align:left;
+font-size:50px;
 }
